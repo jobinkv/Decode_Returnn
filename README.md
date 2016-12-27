@@ -3,8 +3,8 @@
 In this project we are going to dicsuss some usage of the very efficient pakage [RETURNN](http://returnn.readthedocs.io/en/latest/)
 
 ## Table of condent
-* ** [Introduction](#Introduction)
-* ** [Input the data to the frame work](#Input the data to the frame work)
+*  [Introduction](#Introduction)
+*  [Input the data to the frame work](#Input the data to the frame work)
 
 
 ## Introduction
